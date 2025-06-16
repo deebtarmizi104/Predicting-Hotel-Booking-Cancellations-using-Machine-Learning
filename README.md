@@ -1,1 +1,1 @@
-# Predicting-Hotel-Booking-Cancellations-using-Machine-Learning
+# Predicting Hotel Booking Cancellations using Machine Learning
