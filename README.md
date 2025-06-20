@@ -93,7 +93,7 @@ jupyter notebook
 
 ## 🧑‍💻 Contributors
 
-- Your Name Here
+- Yuhan, Izzati, Harith, Adibah, Tanisya
 
 ---
 
